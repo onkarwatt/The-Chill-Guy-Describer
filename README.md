@@ -11,7 +11,7 @@ A web client for The Describer app, built with HTML, CSS, and JS.
   - [Challenges and Learning Points:](#challenges-and-learning-points)
 
 ## Live Application URL
-[https://thedescriber.pages.dev/](https://thedescriber.pages.dev/)
+[https://the-chill-guy-describer.vercel.app/](https://the-chill-guy-describer.vercel.app/)
 
 ## How to Use the Application
    
